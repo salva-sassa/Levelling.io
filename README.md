@@ -3,8 +3,10 @@
 An experimental real-time multiplayer game development project exploring WebSockets, concurrency management, and state synchronization.
 
 <div style="display: flex; gap: 20px; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/31155813-d3fd-4724-8126-afba36806272" width="35%" />
-  <img src="https://github.com/user-attachments/assets/10ce8040-6220-4a7d-a539-df2c3a0ae80d" width="49%" />
+  <img src="https://github.com/user-attachments/assets/d5d6be2c-6807-4895-83d9-c1def8a4fda9" width="49%" />
+  <img src="https://github.com/user-attachments/assets/689c8741-47c2-4d78-9799-3b4fdd9812f6" width="39%" />
+
+
 </div>
 
 
@@ -32,10 +34,8 @@ This architecture enables efficient state management and seamless synchronizatio
 | Concurrent user interactions | Created conflict resolution mechanisms to handle simultaneous player actions |
 | Performance optimization | Designed efficient data structures to maintain smooth gameplay with multiple users |
 
-## Game Assets
+![image](https://github.com/user-attachments/assets/3ba566b3-feda-41bc-afb7-e1db097626e2)
 
-All visual elements were designed using Figma, focusing on clean geometric UI components and collectible items that maintain visual consistency across the game environment.
-![levelling_figma](https://github.com/user-attachments/assets/e11aad05-1ae1-4e44-91b3-c03879cc4387)
 
 ## Technologies Used
 
